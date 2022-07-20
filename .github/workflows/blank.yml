@@ -14,9 +14,12 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: America/Bogota
-          base: header
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: sponsor, maintainer, octonaut          
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_stars: yes
