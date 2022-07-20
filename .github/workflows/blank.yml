@@ -14,7 +14,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: America/Bogota
           base: ""
