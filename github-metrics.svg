@@ -47,7 +47,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.25
+                            Average per day at ~2.24
                         </div>
                     </section>
                 </div>
@@ -1023,6 +1023,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1042,14 +1047,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="235.51630624284513" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="235.51630624284513" y="0" width="97.44140745900617" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="332.9577137018513" y="0" width="79.35919023936927" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="412.3169039412205" y="0" width="22.322216467420816" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="434.63912040864136" y="0" width="19.416554552513695" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="454.05567496115503" y="0" width="3.707093319459126" height="8" fill="#a86454"/>
-                    <rect mask="url(#languages-bar)" x="457.7627682806141" y="0" width="1.264232359553027" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.02700064016716" y="0" width="0.9729993598327573" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="235.56281970599784" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="235.56281970599784" y="0" width="97.46119248230963" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="333.0240121883075" y="0" width="79.41722303771932" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="412.44123522602683" y="0" width="22.32662500969845" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="434.76786023572527" y="0" width="19.286640746659227" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="454.05450098238447" y="0" width="3.707825454534055" height="8" fill="#a86454"/>
+                    <rect mask="url(#languages-bar)" x="457.7623264369185" y="0" width="1.2644820400367718" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.0268084769553" y="0" width="0.9731915230446944" height="8" fill="#1d365d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1119,7 +1124,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>storybookjs/storybook</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📓 The UI component explorer. Develop, document, &amp; test React, Vue, Angular, Web Components, Ember, Svelte &amp; more!</div>
@@ -1172,7 +1177,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>antfu/vitesse</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🏕 Opinionated Vite + Vue Starter Template</div>
@@ -1199,14 +1204,14 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        624
+                                        623
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        177
+                                        178
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1225,7 +1230,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vueuse/vue-demi</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🎩 Creates Universal Library for Vue 2 &amp; 3</div>
@@ -1265,7 +1270,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                         </svg>
-                                        63
+                                        64
                                     </div>
                                 </div>
                             </section>
@@ -1278,7 +1283,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tailwindlabs/tailwindcss-line-clamp</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1300,7 +1305,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        794
+                                        796
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
