@@ -47,7 +47,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.24
+                            Average per day at ~2.23
                         </div>
                     </section>
                 </div>
@@ -1018,6 +1018,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1037,14 +1042,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="235.45081248080814" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="235.45081248080814" y="0" width="97.43196687409524" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="332.8827793549034" y="0" width="79.44558289936268" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="412.32836225426604" y="0" width="22.316008973949227" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="434.6443712282153" y="0" width="19.38881421042407" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="454.03318543863935" y="0" width="3.706062429107681" height="8" fill="#a86454"/>
-                    <rect mask="url(#languages-bar)" x="457.73924786774705" y="0" width="1.2880233498148184" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.02727121756186" y="0" width="0.9727287824381317" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="234.31355337626096" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="234.31355337626096" y="0" width="97.20520276274965" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="331.5187561390106" y="0" width="79.16566363678885" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="410.6844197757994" y="0" width="22.208219647952102" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="432.8926394237515" y="0" width="21.089040989101797" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="453.98168041285334" y="0" width="3.6881616489187548" height="8" fill="#a86454"/>
+                    <rect mask="url(#languages-bar)" x="457.6698420617721" y="0" width="1.3621275666910928" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.0319696284632" y="0" width="0.9680303715368184" height="8" fill="#1d365d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1114,7 +1119,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unjs/h3</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Minimal h(ttp) framework built for high performance and portability ⚡️</div>
@@ -1148,7 +1153,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        70
+                                        71
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1167,7 +1172,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unjs/ohmyfetch</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A better fetch API. Works on node, browser and workers.</div>
@@ -1201,7 +1206,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        60
+                                        61
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1220,7 +1225,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>storybookjs/storybook</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📓 The UI component explorer. Develop, document, &amp; test React, Vue, Angular, Web Components, Ember, Svelte &amp; more!</div>
@@ -1273,7 +1278,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>antfu/vitesse</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🏕 Opinionated Vite + Vue Starter Template</div>
@@ -1294,7 +1299,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        5.69k
+                                        5.70k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1307,7 +1312,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        180
+                                        181
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
