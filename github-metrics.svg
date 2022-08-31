@@ -47,7 +47,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.03
+                            Average per day at ~2.02
                         </div>
                     </section>
                 </div>
@@ -1040,6 +1040,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1059,14 +1064,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="230.67118278818958" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="230.67118278818958" y="0" width="95.87879225086346" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="326.54997503905304" y="0" width="77.96999391037312" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="404.5199689494262" y="0" width="27.632608628084192" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="432.1525775775104" y="0" width="21.866349765605005" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="454.01892734311537" y="0" width="3.630829704946642" height="8" fill="#a86454"/>
-                    <rect mask="url(#languages-bar)" x="457.64975704806204" y="0" width="1.3972604737169478" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.04701752177897" y="0" width="0.9529824782210462" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="230.61561001097556" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="230.61561001097556" y="0" width="95.85569335009528" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="326.4713033610708" y="0" width="77.9512095566078" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="404.4225129176786" y="0" width="27.73677359756535" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="432.15928651524393" y="0" width="21.861081774305358" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="454.0203682895493" y="0" width="3.6299549737042907" height="8" fill="#a86454"/>
+                    <rect mask="url(#languages-bar)" x="457.6503232632536" y="0" width="1.3969238488985494" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.04724711215215" y="0" width="0.9527528878478106" height="8" fill="#1d365d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1136,7 +1141,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebook/react</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A declarative, efficient, and flexible JavaScript library for building user interfaces.</div>
@@ -1157,7 +1162,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        193k
+                                        194k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1189,7 +1194,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>serverless/serverless</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! –</div>
@@ -1242,7 +1247,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nuxt-modules/prismic</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easily connect your Nuxt.js application to your content hosted on Prismic</div>
@@ -1295,7 +1300,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cyanharlow/PureCSS-Font</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">For secrecy or CAPTCHA purposes: a customizable, scalable font made entirely of CSS and HTML, delivered in a single JS file.</div>
