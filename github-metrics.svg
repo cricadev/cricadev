@@ -29,7 +29,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 4 days
+                            Current streak 5 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1019,10 +1019,15 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2 0,2.2 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2 1.7,3.2 z"/>
                             </g>
-                            <g transform="translate(-6.8, 6.64)">
+                            <g transform="translate(-6.8, 6.4)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.36 0,4.36 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.36 1.7,5.36 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.6 0,4.6 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.6 1.7,5.6 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 10.76)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.24 0,1.24 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.24 1.7,2.24 z"/>
                             </g>
                         </g>
                     </g>
@@ -1043,14 +1048,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="222.86240298007255" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="222.86240298007255" y="0" width="92.8339531931679" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="315.6963561732405" y="0" width="75.47973888775198" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="391.17609506099245" y="0" width="41.88149703564639" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="433.05759209663887" y="0" width="21.14317427552028" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="454.20076637215914" y="0" width="3.5079173006142246" height="8" fill="#a86454"/>
-                    <rect mask="url(#languages-bar)" x="457.70868367277336" y="0" width="1.3705946205657036" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.0792782933391" y="0" width="0.9207217066609723" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="222.97515597065305" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="222.97515597065305" y="0" width="92.88092076468276" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="315.8560767353358" y="0" width="75.51792642487815" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="391.374003160214" y="0" width="41.669957937997495" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="433.04396109821147" y="0" width="21.153871262082625" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="454.19783236029406" y="0" width="3.5096920645989274" height="8" fill="#a86454"/>
+                    <rect mask="url(#languages-bar)" x="457.707524424893" y="0" width="1.3712880468245785" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.0788124717176" y="0" width="0.9211875282824312" height="8" fill="#1d365d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1120,7 +1125,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>miracleonyenma/content-v2-blog</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Blog powered by Nuxt Content v2</div>
@@ -1167,7 +1172,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cong-min/TagCloud</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">☁️ 3D TagCloud.js rotating with mouse</div>
@@ -1220,7 +1225,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mml-book/mml-book.github.io</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Aug 31 2022</span>
                                     </div>
                                 </div>
                                 <div class="field description">Companion webpage to the book "Mathematics For Machine Learning"</div>
@@ -1267,7 +1272,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Avik-Jain/100-Days-Of-ML-Code</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Aug 31 2022</span>
                                     </div>
                                 </div>
                                 <div class="field description">100 Days of ML Coding</div>
