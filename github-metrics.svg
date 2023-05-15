@@ -1029,6 +1029,13 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
@@ -1124,7 +1131,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JavascriptMick/nuxt3-boilerplate</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple boilerplate for SAAS.  Nuxt3, Supabase, OAuth, Prisma, TRPC, Pinia, Stripe, Tailwind, OpenAI</div>
@@ -1171,7 +1178,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>argyleink/open-props</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CSS custom properties to help accelerate adaptive and consistent design.</div>
@@ -1224,7 +1231,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>loicpennequin/create-v3-app</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The best way to start your full stack project as a full stack software engineer in 2023 and bring value to your users as fast as possible (not clickbait)</div>
@@ -1277,7 +1284,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huntersofbook/huntersofbook</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">We open the tools we use in our projects to all developers.</div>
