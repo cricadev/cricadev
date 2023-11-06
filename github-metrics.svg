@@ -1023,7 +1023,14 @@
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5 0,2.5 z"/>
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5 1.7,3.5 z"/>
                             </g>
-                            <g transform="translate(-10.2, 12)">
+                            <g transform="translate(-10.2, 11.5)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5 0,1.5 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5 1.7,2.5 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
@@ -1047,14 +1054,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="164.53782657592907" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="164.53782657592907" y="0" width="110.16597045641399" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="274.70379703234306" y="0" width="93.01112455782314" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="367.7149215901662" y="0" width="58.035806889470294" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="425.7507284796365" y="0" width="15.560101579750977" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="441.31083005938746" y="0" width="15.433870835444127" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="456.7447008948316" y="0" width="2.5785167928420014" height="8" fill="#a86454"/>
-                    <rect mask="url(#languages-bar)" x="459.3232176876736" y="0" width="0.676782312326396" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="164.3524523050993" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="164.3524523050993" y="0" width="110.25258535650592" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="274.6050376616052" y="0" width="92.90633485837974" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="367.51137251998495" y="0" width="57.97042164883574" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="425.48179416882067" y="0" width="15.724003257690741" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="441.2057974265114" y="0" width="15.542571006116882" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="456.7483684326283" y="0" width="2.5756117424943543" height="8" fill="#a86454"/>
+                    <rect mask="url(#languages-bar)" x="459.3239801751227" y="0" width="0.6760198248773466" height="8" fill="#1d365d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1083,15 +1090,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        SCSS
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        SCSS
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1124,7 +1131,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>goldbergyoni/nodebestpractices</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1180,7 +1187,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>davestewart/nuxt-areas</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple and scalable folder management for large Nuxt projects</div>
@@ -1227,7 +1234,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Baroshem/nuxt-backend</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Example Nuxt Backend Microservice</div>
@@ -1274,7 +1281,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nestjs/nest</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀</div>
@@ -1364,7 +1371,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 164k out of 74.9m repositories</span>
+                                    <span class="gh">ranked 164k out of 77.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 235 stars</div>
                             </div>
