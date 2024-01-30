@@ -29,7 +29,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 2 days
+                            Current streak 3 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -53,7 +53,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~1.52
+                            Average per day at ~1.55
                         </div>
                     </section>
                 </div>
@@ -1036,10 +1036,15 @@
                             </g>
                         </g>
                         <g transform="translate(44.199999999999996, 26)">
-                            <g transform="translate(0, 5.5)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5 0,1.5 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5 1.7,2.5 z"/>
+                            <g transform="translate(0, 3)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5 0,4 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4 1.7,5 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 6)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3 0,2 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2 1.7,3 z"/>
                             </g>
                         </g>
                     </g>
@@ -1060,14 +1065,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="154.76456687548634" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="154.76456687548634" y="0" width="118.09691493650628" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="272.8614818119926" y="0" width="89.9450279521926" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="362.8065097641852" y="0" width="54.99122731973999" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="417.7977370839252" y="0" width="21.88583169875461" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="439.6835687826798" y="0" width="14.625351483517864" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="454.3089202661976" y="0" width="3.2674635248603674" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="457.576383791058" y="0" width="2.4236162089419353" height="8" fill="#a86454"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="154.38309392911722" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="154.38309392911722" y="0" width="118.56708023607669" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="272.9501741651939" y="0" width="89.72332607613087" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="362.6735002413248" y="0" width="54.882479055591055" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="417.5559792969158" y="0" width="22.17766663864625" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="439.7336459355621" y="0" width="14.589302043812518" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="454.3229479793746" y="0" width="3.259409685644153" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="457.5823576650188" y="0" width="2.4176423349812572" height="8" fill="#a86454"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1137,7 +1142,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>goldbergyoni/javascript-testing-best-practices</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📗🌐 🚢 Comprehensive and exhaustive JavaScript &amp; Node.js testing best practices (July 2023)</div>
@@ -1190,7 +1195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>florinpop17/app-ideas</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Collection of application ideas which can be used to improve your coding skills.</div>
@@ -1205,7 +1210,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        72.8k
+                                        72.9k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1237,7 +1242,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>trekhleb/javascript-algorithms</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings</div>
@@ -1290,7 +1295,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pllk/cphb</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Competitive Programmer's Handbook</div>
@@ -1374,7 +1379,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 147k out of 71.4m repositories</span>
+                                    <span class="gh">ranked 147k out of 73.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 278 stars</div>
                             </div>
